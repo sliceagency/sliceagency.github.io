@@ -2891,7 +2891,7 @@ blockquote {
 
 .bottom-cta {
   z-index: 200;
-  background-color: #D6E6FF;
+  background-color: var(--dark-purple);
   color: var(--white);
   border-radius: 12px;
   padding: 40px;
