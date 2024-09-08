@@ -1406,6 +1406,9 @@ textarea.w-select {
   margin-right: auto;
   display: inline-block;
   position: relative
+
+  #block-yui_3_17_2_1_1725770726645_2444 {
+    display:none;
 }
 
 .w-dropdown-btn,
