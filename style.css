@@ -1409,7 +1409,7 @@ textarea.w-select {
 }
 
 #block-yui_3_17_2_1_1725770726645_2444 {
-  display:none:
+  visibility:hidden;
 }
 
 .w-dropdown-btn,
